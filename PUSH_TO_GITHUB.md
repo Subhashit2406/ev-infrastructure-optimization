@@ -62,7 +62,7 @@ After pushing to GitHub, clone it fresh to test:
 
 ```powershell
 # Clone from GitHub
-git clone https://github.com/YOUR-USERNAME/ev-infrastructure-optimization.git
+git clone https://github.com/Subhashit2406/ev-infrastructure-optimization.git
 cd ev-infrastructure-optimization
 
 # Install and test
