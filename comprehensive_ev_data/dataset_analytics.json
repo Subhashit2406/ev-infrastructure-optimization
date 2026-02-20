@@ -1,0 +1,103 @@
+{
+  "dataset_metadata": {
+    "creation_timestamp": "2025-10-03 13:12:29",
+    "total_stations": 20,
+    "total_sessions": 1570,
+    "data_collection_methods": [
+      "OpenChargeMap API (Alternative endpoints)",
+      "EV Database Websites",
+      "News Articles & Press Releases",
+      "Known Infrastructure Database"
+    ],
+    "geographic_coverage": {
+      "country": "India",
+      "cities": 11,
+      "states": 10
+    },
+    "time_period": {
+      "session_data_start": "2025-07-05",
+      "session_data_end": "2025-10-03",
+      "duration_days": 90
+    }
+  },
+  "infrastructure_analytics": {
+    "power_distribution": {
+      "min_kw": 7.4,
+      "max_kw": 60.0,
+      "average_kw": 31.629999999999995,
+      "median_kw": 23.5
+    },
+    "operator_analysis": {
+      "TATA Power": "5",
+      "Ather Energy": "4",
+      "ChargePoint": "3",
+      "Statiq": "3",
+      "Delhi Government": "1",
+      "EESL": "1",
+      "Magenta ChargeGrid": "1",
+      "Bolt": "1",
+      "Race Energy": "1"
+    },
+    "city_distribution": {
+      "Mumbai": "4",
+      "New Delhi": "3",
+      "Bangalore": "3",
+      "Chennai": "2",
+      "Hyderabad": "2",
+      "Pune": "1",
+      "Gurgaon": "1",
+      "Noida": "1",
+      "Various": "1",
+      "Kolkata": "1",
+      "Ahmedabad": "1"
+    },
+    "state_distribution": {
+      "Maharashtra": "5",
+      "Delhi": "3",
+      "Karnataka": "3",
+      "Tamil Nadu": "2",
+      "Telangana": "2",
+      "Haryana": "1",
+      "Uttar Pradesh": "1",
+      "Various": "1",
+      "West Bengal": "1",
+      "Gujarat": "1"
+    },
+    "charger_types": {
+      "DC Fast": "9",
+      "AC Fast": "9",
+      "AC Slow": "2"
+    },
+    "access_types": {
+      "Public": "20"
+    }
+  },
+  "usage_analytics": {
+    "session_metrics": {
+      "total_energy_delivered_kwh": 33529.549999999996,
+      "total_revenue_inr": 362316.99,
+      "average_session_duration_min": 82.08980891719746,
+      "average_energy_per_session_kwh": 21.356401273885346,
+      "completion_rate_percent": 86.62420382165605
+    },
+    "payment_analysis": {
+      "Wallet": "417",
+      "Card": "395",
+      "Cash": "383",
+      "UPI": "375"
+    },
+    "temporal_patterns": {
+      "peak_hour": 1,
+      "sessions_per_day_avg": 17.444444444444443
+    },
+    "performance_metrics": {
+      "average_rating": 3.876433121019108,
+      "customer_satisfaction_4plus": 71.59235668789809
+    }
+  },
+  "data_quality": {
+    "stations_with_coordinates": 20,
+    "stations_with_power_data": 20,
+    "completeness_score": 100.0
+  }
+}

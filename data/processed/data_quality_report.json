@@ -1,0 +1,63 @@
+[
+  {
+    "name": "ev_sales",
+    "rows": 1440,
+    "columns": 6,
+    "column_names": [
+      "date",
+      "state",
+      "vehicle_category",
+      "ev_sales_count",
+      "year",
+      "month"
+    ],
+    "missing_pct": {
+      "date": 0.0,
+      "state": 0.0,
+      "vehicle_category": 0.0,
+      "ev_sales_count": 0.0,
+      "year": 0.0,
+      "month": 0.0
+    },
+    "dtypes": {
+      "date": "datetime64[ns]",
+      "state": "object",
+      "vehicle_category": "object",
+      "ev_sales_count": "int32",
+      "year": "int32",
+      "month": "int64"
+    },
+    "numeric_summary": {
+      "ev_sales_count": {
+        "count": 1440.0,
+        "mean": 754.5034722222222,
+        "std": 835.8608966131218,
+        "min": 35.0,
+        "25%": 211.0,
+        "50%": 436.0,
+        "75%": 977.25,
+        "max": 6323.0
+      },
+      "year": {
+        "count": 1440.0,
+        "mean": 2023.5,
+        "std": 1.1184223973038214,
+        "min": 2022.0,
+        "25%": 2022.75,
+        "50%": 2023.5,
+        "75%": 2024.25,
+        "max": 2025.0
+      },
+      "month": {
+        "count": 1440.0,
+        "mean": 6.5,
+        "std": 3.4532517835328123,
+        "min": 1.0,
+        "25%": 3.75,
+        "50%": 6.5,
+        "75%": 9.25,
+        "max": 12.0
+      }
+    }
+  }
+]

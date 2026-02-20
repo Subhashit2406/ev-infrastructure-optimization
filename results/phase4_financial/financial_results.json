@@ -1,0 +1,222 @@
+[
+  {
+    "station_type": "slow_ac",
+    "state": "Delhi",
+    "setup_cost_inr": 100000,
+    "fame_subsidy_inr": 40000.0,
+    "state_subsidy_inr": 10000,
+    "net_investment_inr": 50000.0,
+    "annual_revenue_inr": 511000.0,
+    "annual_profit_inr": 383250.0,
+    "breakeven_months": 12,
+    "npv_inr": 2801308.0,
+    "irr_pct": 964.1,
+    "yearly_cashflows": [
+      -50000.0,
+      383250.0,
+      402412.0,
+      422533.0,
+      443660.0,
+      465843.0,
+      489135.0,
+      513592.0,
+      539271.0,
+      566235.0,
+      594547.0
+    ],
+    "yearly_cumulative": [
+      -50000.0,
+      333250.0,
+      735662.0,
+      1158195.0,
+      1601855.0,
+      2067698.0,
+      2556833.0,
+      3070425.0,
+      3609696.0,
+      4175931.0,
+      4770478.0
+    ],
+    "environmental_impact": {
+      "annual_co2_saved_tons": 59.9,
+      "trees_equivalent": 2993,
+      "annual_kwh_delivered": 73000.0
+    }
+  },
+  {
+    "station_type": "fast_dc",
+    "state": "Delhi",
+    "setup_cost_inr": 2500000,
+    "fame_subsidy_inr": 1000000.0,
+    "state_subsidy_inr": 10000,
+    "net_investment_inr": 1490000.0,
+    "annual_revenue_inr": 766500.0,
+    "annual_profit_inr": 574875.0,
+    "breakeven_months": 36,
+    "npv_inr": 2786962.0,
+    "irr_pct": 48.5,
+    "yearly_cashflows": [
+      -1490000.0,
+      574875.0,
+      603619.0,
+      633800.0,
+      665490.0,
+      698764.0,
+      733702.0,
+      770387.0,
+      808907.0,
+      849352.0,
+      891820.0
+    ],
+    "yearly_cumulative": [
+      -1490000.0,
+      -915125.0,
+      -311506.0,
+      322294.0,
+      987784.0,
+      1686548.0,
+      2420250.0,
+      3190637.0,
+      3999544.0,
+      4848896.0,
+      5740716.0
+    ],
+    "environmental_impact": {
+      "annual_co2_saved_tons": 89.8,
+      "trees_equivalent": 4489,
+      "annual_kwh_delivered": 109500.0
+    }
+  },
+  {
+    "station_type": "fast_dc",
+    "state": "Maharashtra",
+    "setup_cost_inr": 2500000,
+    "fame_subsidy_inr": 1000000.0,
+    "state_subsidy_inr": 5000,
+    "net_investment_inr": 1495000.0,
+    "annual_revenue_inr": 638750.0,
+    "annual_profit_inr": 479062.0,
+    "breakeven_months": 36,
+    "npv_inr": 2069135.0,
+    "irr_pct": 40.3,
+    "yearly_cashflows": [
+      -1495000.0,
+      479062.0,
+      503016.0,
+      528166.0,
+      554575.0,
+      582303.0,
+      611419.0,
+      641990.0,
+      674089.0,
+      707793.0,
+      743183.0
+    ],
+    "yearly_cumulative": [
+      -1495000.0,
+      -1015938.0,
+      -512922.0,
+      15244.0,
+      569819.0,
+      1152122.0,
+      1763541.0,
+      2405531.0,
+      3079620.0,
+      3787413.0,
+      4530596.0
+    ],
+    "environmental_impact": {
+      "annual_co2_saved_tons": 74.8,
+      "trees_equivalent": 3741,
+      "annual_kwh_delivered": 91250.0
+    }
+  },
+  {
+    "station_type": "fast_dc",
+    "state": "Karnataka",
+    "setup_cost_inr": 2500000,
+    "fame_subsidy_inr": 1000000.0,
+    "state_subsidy_inr": 7500,
+    "net_investment_inr": 1492500.0,
+    "annual_revenue_inr": 638750.0,
+    "annual_profit_inr": 479062.0,
+    "breakeven_months": 36,
+    "npv_inr": 2071635.0,
+    "irr_pct": 40.4,
+    "yearly_cashflows": [
+      -1492500.0,
+      479062.0,
+      503016.0,
+      528166.0,
+      554575.0,
+      582303.0,
+      611419.0,
+      641990.0,
+      674089.0,
+      707793.0,
+      743183.0
+    ],
+    "yearly_cumulative": [
+      -1492500.0,
+      -1013438.0,
+      -510422.0,
+      17744.0,
+      572319.0,
+      1154622.0,
+      1766041.0,
+      2408031.0,
+      3082120.0,
+      3789913.0,
+      4533096.0
+    ],
+    "environmental_impact": {
+      "annual_co2_saved_tons": 74.8,
+      "trees_equivalent": 3741,
+      "annual_kwh_delivered": 91250.0
+    }
+  },
+  {
+    "station_type": "ultra_fast",
+    "state": "Delhi",
+    "setup_cost_inr": 5000000,
+    "fame_subsidy_inr": 2000000.0,
+    "state_subsidy_inr": 10000,
+    "net_investment_inr": 2990000.0,
+    "annual_revenue_inr": 958125.0,
+    "annual_profit_inr": 718594.0,
+    "breakeven_months": 48,
+    "npv_inr": 2356203.0,
+    "irr_pct": 30.2,
+    "yearly_cashflows": [
+      -2990000.0,
+      718594.0,
+      754523.0,
+      792250.0,
+      831862.0,
+      873455.0,
+      917128.0,
+      962984.0,
+      1011134.0,
+      1061690.0,
+      1114775.0
+    ],
+    "yearly_cumulative": [
+      -2990000.0,
+      -2271406.0,
+      -1516883.0,
+      -724633.0,
+      107229.0,
+      980684.0,
+      1897812.0,
+      2860796.0,
+      3871930.0,
+      4933620.0,
+      6048395.0
+    ],
+    "environmental_impact": {
+      "annual_co2_saved_tons": 112.2,
+      "trees_equivalent": 5611,
+      "annual_kwh_delivered": 136875.0
+    }
+  }
+]

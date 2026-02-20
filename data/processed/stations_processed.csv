@@ -1,0 +1,501 @@
+station_id,operator,latitude,longitude,city,state,connector_type,power_kw,status,region
+STN_6903,Ather Grid,28.767893,77.011832,Delhi,Delhi,CCS2,7.4,Operational,North
+STN_6191,Tata Power,18.990374,72.854341,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_8530,ChargeZone,18.602963,73.941652,Pune,Maharashtra,CCS2,22.0,Operational,Central
+STN_6374,ChargeZone,12.918768,77.60703,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_6309,Statiq,19.073728,72.792264,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_5133,Zeon Charging,26.93775,75.706032,Jaipur,Other,Bharat DC-001,60.0,Operational,North
+STN_8566,Tata Power,26.775433,80.909366,Lucknow,Other,GB/T,7.4,Operational,North
+STN_5537,BluSmart,17.376102,78.519549,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_8536,Ather Grid,13.082793,80.210608,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_9730,ChargeZone,28.655829,77.063587,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_2120,Ather Grid,22.63411,88.381618,Kolkata,Other,CCS2,7.4,Operational,Central
+STN_8420,BluSmart,27.000437,75.877632,Jaipur,Other,Type 2,7.4,Operational,North
+STN_9714,Zeon Charging,26.875089,75.824218,Jaipur,Other,CCS2,7.4,Operational,North
+STN_4359,Statiq,19.066647,72.898763,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_5485,Tata Power,19.041164,72.830744,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_9708,Zeon Charging,19.054809,72.798814,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_6158,ChargeZone,18.499889,73.915616,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_3909,BluSmart,17.410841,78.442642,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_5679,ChargeZone,12.934581,77.523445,Bangalore,Karnataka,Bharat DC-001,7.4,Operational,South
+STN_2683,Tata Power,28.791789,77.049647,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_5505,Ather Grid,28.619538,77.077276,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_6468,Tata Power,18.999031,72.858972,Mumbai,Maharashtra,Bharat DC-001,60.0,Operational,Central
+STN_8123,ChargeZone,26.805421,80.984049,Lucknow,Other,Type 2,7.4,Operational,North
+STN_5338,Tata Power,17.344155,78.458695,Hyderabad,Other,Bharat DC-001,150.0,Operational,Central
+STN_4595,Zeon Charging,26.830084,75.706901,Jaipur,Other,Bharat DC-001,7.4,Operational,North
+STN_1828,BluSmart,18.614296,73.942875,Pune,Maharashtra,CCS2,22.0,Operational,Central
+STN_3814,BluSmart,23.068833,72.580968,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_5131,Statiq,18.486601,73.784461,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_8288,Statiq,23.114884,72.649939,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_2115,ChargeZone,12.961875,77.56998,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_5211,Ather Grid,12.8897,77.517796,Bangalore,Karnataka,CCS2,60.0,Operational,South
+STN_3060,Tata Power,13.016721,77.576429,Bangalore,Karnataka,Bharat DC-001,22.0,Operational,South
+STN_5850,ChargeZone,28.763944,77.198473,Delhi,Delhi,CCS2,22.0,Operational,North
+STN_7440,Ather Grid,26.896934,75.879162,Jaipur,Other,GB/T,7.4,Operational,North
+STN_8835,Ather Grid,19.1342,72.795465,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_2049,BluSmart,19.073088,72.778113,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_7227,Tata Power,18.988472,72.858511,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_6718,Statiq,22.661396,88.430402,Kolkata,Other,Bharat DC-001,7.4,Operational,Central
+STN_2400,BluSmart,17.455305,78.558153,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_1064,ChargeZone,28.673646,77.195964,Delhi,Delhi,Bharat DC-001,60.0,Operational,North
+STN_4021,BluSmart,28.755062,77.139999,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_3135,Tata Power,18.423778,73.938433,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_5301,Zeon Charging,26.935056,80.857234,Lucknow,Other,Type 2,7.4,Operational,North
+STN_2802,Statiq,26.940155,81.041822,Lucknow,Other,Type 2,7.4,Operational,North
+STN_1179,Zeon Charging,23.03228,72.609556,Ahmedabad,Other,Bharat DC-001,150.0,Operational,North
+STN_7366,ChargeZone,13.055638,80.171117,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_2146,ChargeZone,13.0595,80.353963,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_7193,Ather Grid,26.921667,75.830028,Jaipur,Other,GB/T,7.4,Operational,North
+STN_2641,Zeon Charging,28.637761,77.064891,Delhi,Delhi,Bharat DC-001,7.4,Operational,North
+STN_3426,BluSmart,13.055143,77.5839,Bangalore,Karnataka,Bharat DC-001,150.0,Operational,South
+STN_4120,Zeon Charging,13.019355,80.233555,Chennai,Tamil Nadu,CCS2,22.0,Operational,South
+STN_3888,Zeon Charging,13.06435,80.202246,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_2682,Statiq,19.101557,72.800446,Mumbai,Maharashtra,Bharat DC-001,22.0,Operational,Central
+STN_2775,Tata Power,22.595298,88.388616,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_5924,ChargeZone,13.033834,80.235575,Chennai,Tamil Nadu,Bharat DC-001,22.0,Operational,South
+STN_7493,Ather Grid,28.633915,77.019411,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_7669,Tata Power,12.892155,77.544385,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_9335,Tata Power,26.873878,75.83454,Jaipur,Other,Bharat DC-001,7.4,Operational,North
+STN_7332,ChargeZone,19.152281,72.796223,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_6709,Statiq,19.072908,72.95689,Mumbai,Maharashtra,Bharat DC-001,7.4,Operational,Central
+STN_7572,Statiq,28.693203,77.002984,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_7016,Ather Grid,28.635325,77.116875,Delhi,Delhi,CCS2,50.0,Operational,North
+STN_1865,Ather Grid,17.287114,78.484964,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_5831,BluSmart,26.983644,75.703511,Jaipur,Other,CCS2,7.4,Operational,North
+STN_8656,Tata Power,23.033276,72.643584,Ahmedabad,Other,CCS2,7.4,Operational,North
+STN_2395,Zeon Charging,13.031843,80.234161,Chennai,Tamil Nadu,CCS2,50.0,Operational,South
+STN_7604,Zeon Charging,28.795367,77.069309,Delhi,Delhi,Bharat DC-001,7.4,Operational,North
+STN_1270,Tata Power,22.664571,88.428382,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_8446,ChargeZone,26.850279,75.88632,Jaipur,Other,Bharat DC-001,150.0,Operational,North
+STN_4718,Zeon Charging,26.790261,80.929608,Lucknow,Other,CCS2,150.0,Operational,North
+STN_3954,Ather Grid,19.003515,72.911674,Mumbai,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_3104,ChargeZone,26.8726,75.824452,Jaipur,Other,Type 2,7.4,Operational,North
+STN_5433,Zeon Charging,22.646658,88.43152,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_3814,Zeon Charging,22.474862,88.397255,Kolkata,Other,CCS2,60.0,Operational,Central
+STN_9176,Tata Power,13.171922,80.344607,Chennai,Tamil Nadu,CCS2,7.4,Operational,South
+STN_8355,Zeon Charging,13.045126,77.545209,Bangalore,Karnataka,CCS2,7.4,Operational,South
+STN_4729,Zeon Charging,26.910062,75.821018,Jaipur,Other,GB/T,7.4,Operational,North
+STN_4386,ChargeZone,13.047276,77.525071,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_6397,ChargeZone,26.877412,75.802814,Jaipur,Other,Bharat DC-001,7.4,Operational,North
+STN_4308,Statiq,28.720709,77.157636,Delhi,Delhi,CCS2,50.0,Operational,North
+STN_5231,Statiq,26.848701,75.723462,Jaipur,Other,GB/T,7.4,Operational,North
+STN_3471,BluSmart,19.145694,72.87791,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_5114,Ather Grid,26.974882,75.860062,Jaipur,Other,GB/T,7.4,Operational,North
+STN_6081,BluSmart,19.14483,72.792137,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_2957,Ather Grid,22.551722,88.265413,Kolkata,Other,CCS2,150.0,Operational,Central
+STN_2314,Tata Power,22.517015,88.277274,Kolkata,Other,CCS2,150.0,Operational,Central
+STN_2887,Ather Grid,28.731521,77.049606,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_5543,Ather Grid,26.922396,80.944306,Lucknow,Other,CCS2,150.0,Operational,North
+STN_1760,Statiq,17.483044,78.393397,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_7553,BluSmart,17.365807,78.542996,Hyderabad,Other,CCS2,50.0,Operational,Central
+STN_4784,Statiq,13.061139,80.286748,Chennai,Tamil Nadu,Bharat DC-001,150.0,Operational,South
+STN_3140,Ather Grid,12.893233,77.618401,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_3147,Tata Power,17.483014,78.480199,Hyderabad,Other,CCS2,50.0,Operational,Central
+STN_9430,ChargeZone,17.328495,78.575565,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_9866,Zeon Charging,26.911227,75.798485,Jaipur,Other,Type 2,7.4,Operational,North
+STN_5107,Tata Power,26.988591,75.79133,Jaipur,Other,GB/T,7.4,Operational,North
+STN_1538,Zeon Charging,12.880172,77.522053,Bangalore,Karnataka,CCS2,60.0,Operational,South
+STN_1529,ChargeZone,13.133953,80.218432,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_5332,Ather Grid,28.750223,77.200461,Delhi,Delhi,Bharat DC-001,22.0,Operational,North
+STN_2233,BluSmart,13.175599,80.298863,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_4695,BluSmart,18.485959,73.866388,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_1678,Zeon Charging,17.384766,78.439782,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_1040,Zeon Charging,26.948654,75.816393,Jaipur,Other,Type 2,7.4,Operational,North
+STN_4098,BluSmart,26.85715,80.849255,Lucknow,Other,GB/T,7.4,Operational,North
+STN_6357,Tata Power,13.14585,80.293669,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_7787,ChargeZone,18.466931,73.863735,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_9781,BluSmart,26.838855,75.693347,Jaipur,Other,Bharat DC-001,60.0,Operational,North
+STN_4720,Zeon Charging,13.041051,80.245424,Chennai,Tamil Nadu,Bharat DC-001,22.0,Operational,South
+STN_6509,ChargeZone,17.373115,78.513861,Hyderabad,Other,Bharat DC-001,150.0,Operational,Central
+STN_6134,Tata Power,18.574346,73.800844,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_2499,Ather Grid,28.753422,77.138328,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_1137,Tata Power,22.616893,88.311327,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_1949,Tata Power,23.001825,72.631858,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_2486,Ather Grid,26.941962,81.000683,Lucknow,Other,Type 2,7.4,Operational,North
+STN_7435,ChargeZone,27.010533,75.76919,Jaipur,Other,Type 2,7.4,Operational,North
+STN_6758,Ather Grid,18.477779,73.785412,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_8630,Tata Power,12.942762,77.555466,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_2205,Tata Power,22.558993,88.45995,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_6159,Tata Power,13.040808,80.226791,Chennai,Tamil Nadu,Bharat DC-001,7.4,Operational,South
+STN_5426,BluSmart,26.996915,75.755903,Jaipur,Other,Bharat DC-001,60.0,Operational,North
+STN_2705,BluSmart,26.924233,75.71445,Jaipur,Other,CCS2,150.0,Operational,North
+STN_4896,Statiq,22.519898,88.44144,Kolkata,Other,Bharat DC-001,7.4,Operational,Central
+STN_4080,ChargeZone,22.99451,72.495876,Ahmedabad,Other,Bharat DC-001,7.4,Operational,Central
+STN_3238,Statiq,19.061712,72.955712,Mumbai,Maharashtra,CCS2,22.0,Operational,Central
+STN_9628,Zeon Charging,28.715057,77.033496,Delhi,Delhi,Bharat DC-001,7.4,Operational,North
+STN_1993,BluSmart,17.327597,78.496286,Hyderabad,Other,CCS2,7.4,Operational,Central
+STN_4362,ChargeZone,22.929953,72.651786,Ahmedabad,Other,Type 2,7.4,Operational,Central
+STN_9850,Zeon Charging,19.145648,72.78891,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_1728,Ather Grid,28.724081,77.059585,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_1723,Tata Power,19.104023,72.809525,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_3928,Zeon Charging,17.422904,78.448642,Hyderabad,Other,Bharat DC-001,22.0,Operational,Central
+STN_2321,Zeon Charging,23.072834,72.479448,Ahmedabad,Other,CCS2,150.0,Operational,North
+STN_3484,Statiq,19.132747,72.880127,Mumbai,Maharashtra,Bharat DC-001,22.0,Operational,Central
+STN_2225,Statiq,28.742674,77.043201,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_1201,BluSmart,13.132407,80.369729,Chennai,Tamil Nadu,Bharat DC-001,150.0,Operational,South
+STN_9012,Ather Grid,13.048337,77.658462,Bangalore,Karnataka,Bharat DC-001,22.0,Operational,South
+STN_5859,Zeon Charging,27.003983,75.825382,Jaipur,Other,GB/T,7.4,Operational,North
+STN_5875,BluSmart,13.17172,80.240733,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_2413,BluSmart,28.712881,77.194946,Delhi,Delhi,Bharat DC-001,60.0,Operational,North
+STN_8009,Tata Power,17.425203,78.554398,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_2724,Ather Grid,26.783594,80.913268,Lucknow,Other,CCS2,7.4,Operational,North
+STN_7239,Tata Power,23.039008,72.641832,Ahmedabad,Other,Bharat DC-001,7.4,Operational,North
+STN_3968,BluSmart,12.958382,77.510801,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_9287,Ather Grid,22.933838,72.563563,Ahmedabad,Other,Bharat DC-001,50.0,Operational,Central
+STN_6673,Statiq,13.054772,77.691226,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_8646,Tata Power,26.939685,80.950943,Lucknow,Other,GB/T,7.4,Operational,North
+STN_2453,Tata Power,28.680813,77.192865,Delhi,Delhi,CCS2,150.0,Operational,North
+STN_1319,ChargeZone,18.558184,73.93631,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_8807,Tata Power,17.353721,78.546541,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_5170,ChargeZone,17.421261,78.573798,Hyderabad,Other,CCS2,50.0,Operational,Central
+STN_7090,Tata Power,13.148295,80.326732,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_8011,Zeon Charging,28.694788,77.033712,Delhi,Delhi,Bharat DC-001,60.0,Operational,North
+STN_5133,BluSmart,13.05047,77.537458,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_4474,Zeon Charging,19.010457,72.859483,Mumbai,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_3863,Tata Power,18.559468,73.786322,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_4083,ChargeZone,12.997438,77.613009,Bangalore,Karnataka,CCS2,7.4,Operational,South
+STN_6452,Tata Power,28.620923,77.106756,Delhi,Delhi,CCS2,60.0,Operational,North
+STN_6781,Tata Power,28.674373,77.057241,Delhi,Delhi,CCS2,7.4,Operational,North
+STN_8303,BluSmart,19.13091,72.790695,Mumbai,Maharashtra,Bharat DC-001,7.4,Operational,Central
+STN_5680,BluSmart,28.623418,77.126504,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_7094,BluSmart,26.827902,80.925821,Lucknow,Other,Bharat DC-001,22.0,Operational,North
+STN_8425,BluSmart,28.72685,77.015388,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_9958,BluSmart,22.579408,88.340576,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_2589,Tata Power,13.109421,80.241626,Chennai,Tamil Nadu,CCS2,50.0,Operational,South
+STN_1477,ChargeZone,26.888793,75.832479,Jaipur,Other,Bharat DC-001,50.0,Operational,North
+STN_3508,ChargeZone,12.964947,77.552906,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_5841,ChargeZone,28.73277,77.086017,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_9730,Zeon Charging,12.963481,77.573857,Bangalore,Karnataka,CCS2,150.0,Operational,South
+STN_3270,BluSmart,19.156434,72.919986,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_7833,Statiq,22.493134,88.451916,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_3683,ChargeZone,18.512633,73.872931,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_6594,ChargeZone,28.760162,77.03818,Delhi,Delhi,CCS2,50.0,Operational,North
+STN_5131,BluSmart,22.938877,72.656762,Ahmedabad,Other,Bharat DC-001,7.4,Operational,Central
+STN_3245,Statiq,26.935164,75.780201,Jaipur,Other,Bharat DC-001,60.0,Operational,North
+STN_9132,Zeon Charging,13.075998,80.35933,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_6212,Zeon Charging,19.124561,72.871398,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_3098,ChargeZone,13.102185,80.289103,Chennai,Tamil Nadu,CCS2,60.0,Operational,South
+STN_9174,BluSmart,22.638247,88.275332,Kolkata,Other,CCS2,60.0,Operational,Central
+STN_1091,BluSmart,13.051216,80.331783,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_7074,BluSmart,22.601596,88.318724,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_2569,Ather Grid,13.029604,80.332646,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_9041,Ather Grid,17.419156,78.545752,Hyderabad,Other,Bharat DC-001,7.4,Operational,Central
+STN_1980,BluSmart,18.425608,73.838158,Pune,Maharashtra,Bharat DC-001,22.0,Operational,Central
+STN_2724,Ather Grid,26.812451,75.800314,Jaipur,Other,CCS2,22.0,Operational,North
+STN_2414,BluSmart,22.597405,88.34829,Kolkata,Other,Bharat DC-001,22.0,Operational,Central
+STN_7754,Statiq,22.546833,88.277167,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_1217,Tata Power,26.969283,75.716611,Jaipur,Other,CCS2,7.4,Operational,North
+STN_4811,ChargeZone,26.898041,75.713316,Jaipur,Other,CCS2,150.0,Operational,North
+STN_5930,BluSmart,22.550732,88.371657,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_1733,Zeon Charging,26.869387,75.759749,Jaipur,Other,CCS2,22.0,Operational,North
+STN_5016,Zeon Charging,19.106989,72.779382,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_7672,Tata Power,23.086299,72.585425,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_5327,BluSmart,12.879938,77.665176,Bangalore,Karnataka,Bharat DC-001,50.0,Operational,South
+STN_1355,Ather Grid,22.502847,88.355033,Kolkata,Other,Bharat DC-001,150.0,Operational,Central
+STN_1804,ChargeZone,18.60554,73.937519,Pune,Maharashtra,Bharat DC-001,150.0,Operational,Central
+STN_2057,ChargeZone,26.942357,80.926339,Lucknow,Other,Bharat DC-001,7.4,Operational,North
+STN_6888,Tata Power,12.88715,77.613976,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_1282,Tata Power,19.070455,72.908758,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_1587,Tata Power,12.979274,77.528595,Bangalore,Karnataka,CCS2,50.0,Operational,South
+STN_4943,Ather Grid,26.836107,75.746994,Jaipur,Other,GB/T,7.4,Operational,North
+STN_3432,Ather Grid,13.123333,80.210623,Chennai,Tamil Nadu,Bharat DC-001,22.0,Operational,South
+STN_6249,ChargeZone,22.619664,88.345838,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_1371,Tata Power,26.87744,75.707759,Jaipur,Other,Bharat DC-001,50.0,Operational,North
+STN_8196,Tata Power,18.6151,73.78872,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_8859,Ather Grid,18.513616,73.955954,Pune,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_9685,Statiq,13.012977,77.638789,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_9089,Zeon Charging,23.075369,72.572855,Ahmedabad,Other,CCS2,150.0,Operational,North
+STN_1514,BluSmart,23.096943,72.503322,Ahmedabad,Other,Type 2,7.4,Operational,North
+STN_4282,Ather Grid,23.006592,72.605699,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_8124,ChargeZone,13.06562,77.517958,Bangalore,Karnataka,Bharat DC-001,22.0,Operational,South
+STN_4260,Ather Grid,19.122653,72.894645,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_3519,Ather Grid,22.609082,88.35084,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_7173,Ather Grid,19.165981,72.794654,Mumbai,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_2563,Tata Power,13.166789,80.276735,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_8194,Tata Power,12.906279,77.651182,Bangalore,Karnataka,Bharat DC-001,150.0,Operational,South
+STN_8487,Zeon Charging,22.648422,88.420203,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_1981,BluSmart,13.004091,77.652224,Bangalore,Karnataka,CCS2,50.0,Operational,South
+STN_3260,Ather Grid,28.714813,77.032528,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_3819,Zeon Charging,13.074698,80.182874,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_4607,Ather Grid,27.007494,75.81032,Jaipur,Other,Bharat DC-001,50.0,Operational,North
+STN_7776,Zeon Charging,12.996713,80.266767,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_9116,Ather Grid,19.088455,72.868607,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_8971,Ather Grid,26.972349,75.832335,Jaipur,Other,Type 2,7.4,Operational,North
+STN_5317,Zeon Charging,19.006366,72.885675,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_6715,Zeon Charging,26.911074,75.733816,Jaipur,Other,Type 2,7.4,Operational,North
+STN_6831,Zeon Charging,26.911544,75.732945,Jaipur,Other,Bharat DC-001,150.0,Operational,North
+STN_2475,Statiq,26.903155,80.982065,Lucknow,Other,CCS2,50.0,Operational,North
+STN_3298,Tata Power,22.512613,88.274167,Kolkata,Other,Bharat DC-001,50.0,Operational,Central
+STN_4053,ChargeZone,23.085169,72.49381,Ahmedabad,Other,CCS2,22.0,Operational,North
+STN_1610,Statiq,22.573115,88.402671,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_1734,BluSmart,19.082401,72.87296,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_2113,Statiq,28.786677,77.100063,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_3940,Ather Grid,28.653897,77.198136,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_2959,Statiq,23.071034,72.606244,Ahmedabad,Other,CCS2,7.4,Operational,North
+STN_5306,Tata Power,26.863327,80.960011,Lucknow,Other,GB/T,7.4,Operational,North
+STN_5763,BluSmart,28.692684,77.058813,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_7244,ChargeZone,23.118327,72.529976,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_9757,Zeon Charging,13.077193,80.253634,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_3228,Statiq,26.93799,75.822262,Jaipur,Other,Type 2,7.4,Operational,North
+STN_9167,Ather Grid,26.752135,80.878083,Lucknow,Other,Type 2,7.4,Operational,North
+STN_2521,Tata Power,26.784629,80.964466,Lucknow,Other,CCS2,60.0,Operational,North
+STN_5261,ChargeZone,18.490654,73.776838,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_3891,ChargeZone,26.912496,80.92831,Lucknow,Other,CCS2,50.0,Operational,North
+STN_3745,Zeon Charging,28.64672,77.155239,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_2839,Statiq,13.041144,77.689601,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_9945,Tata Power,13.000435,77.556996,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_7116,BluSmart,12.996867,80.346941,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_3947,Statiq,13.093107,80.269593,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_1511,BluSmart,13.079956,80.244056,Chennai,Tamil Nadu,Bharat DC-001,60.0,Operational,South
+STN_1311,Zeon Charging,26.765984,80.953723,Lucknow,Other,Bharat DC-001,22.0,Operational,North
+STN_3617,Zeon Charging,26.850147,75.858209,Jaipur,Other,Type 2,7.4,Operational,North
+STN_9181,BluSmart,26.940863,75.772224,Jaipur,Other,Type 2,7.4,Operational,North
+STN_8320,ChargeZone,17.355767,78.54402,Hyderabad,Other,CCS2,50.0,Operational,Central
+STN_2339,ChargeZone,12.991263,80.21781,Chennai,Tamil Nadu,Bharat DC-001,7.4,Operational,South
+STN_9906,Ather Grid,26.774384,80.930084,Lucknow,Other,GB/T,7.4,Operational,North
+STN_1061,ChargeZone,17.481726,78.482106,Hyderabad,Other,Bharat DC-001,22.0,Operational,Central
+STN_6907,ChargeZone,22.515349,88.411037,Kolkata,Other,CCS2,60.0,Operational,Central
+STN_8447,BluSmart,28.65171,77.1144,Delhi,Delhi,CCS2,60.0,Operational,North
+STN_3832,ChargeZone,19.025642,72.875068,Mumbai,Maharashtra,CCS2,50.0,Operational,Central
+STN_1871,BluSmart,17.45022,78.446986,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_6780,ChargeZone,19.078572,72.87436,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_6493,Tata Power,17.462078,78.530762,Hyderabad,Other,Bharat DC-001,22.0,Operational,Central
+STN_3344,Zeon Charging,19.093345,72.842214,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_8163,ChargeZone,18.982211,72.920936,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_8467,Zeon Charging,13.049719,77.528155,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_1339,ChargeZone,12.881356,77.585303,Bangalore,Karnataka,CCS2,150.0,Operational,South
+STN_8597,Tata Power,18.598012,73.856964,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_7078,Tata Power,13.12212,80.216737,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_6412,Tata Power,18.425651,73.805846,Pune,Maharashtra,CCS2,50.0,Operational,Central
+STN_2716,Zeon Charging,17.430298,78.508877,Hyderabad,Other,Bharat DC-001,50.0,Operational,Central
+STN_2800,Tata Power,19.044304,72.959015,Mumbai,Maharashtra,Bharat DC-001,22.0,Operational,Central
+STN_9467,Statiq,17.451361,78.49759,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_4384,Statiq,28.625431,77.073685,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_4917,Ather Grid,26.926828,81.007087,Lucknow,Other,Type 2,7.4,Operational,North
+STN_7977,Statiq,22.986802,72.645119,Ahmedabad,Other,Type 2,7.4,Operational,Central
+STN_1592,BluSmart,22.604219,88.428888,Kolkata,Other,Bharat DC-001,50.0,Operational,Central
+STN_5127,Tata Power,19.146751,72.875208,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_3758,Zeon Charging,18.987643,72.881132,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_9598,Statiq,13.032035,77.60113,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_4622,Statiq,26.897541,75.825274,Jaipur,Other,Type 2,7.4,Operational,North
+STN_4930,Zeon Charging,28.630384,77.065698,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_6537,Tata Power,22.661381,88.410134,Kolkata,Other,CCS2,150.0,Operational,Central
+STN_4573,Tata Power,26.877249,81.000028,Lucknow,Other,Bharat DC-001,50.0,Operational,North
+STN_9470,ChargeZone,22.620677,88.446737,Kolkata,Other,Bharat DC-001,22.0,Operational,Central
+STN_9305,Zeon Charging,23.104466,72.530259,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_6052,Tata Power,17.379502,78.500968,Hyderabad,Other,CCS2,60.0,Operational,Central
+STN_8580,ChargeZone,28.651903,77.155604,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_2656,Statiq,18.467076,73.908303,Pune,Maharashtra,CCS2,60.0,Operational,Central
+STN_4160,Ather Grid,17.360956,78.404215,Hyderabad,Other,CCS2,150.0,Operational,Central
+STN_7984,Statiq,23.008195,72.520966,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_2241,Tata Power,23.003708,72.644309,Ahmedabad,Other,Type 2,7.4,Operational,North
+STN_7501,Tata Power,23.093489,72.63425,Ahmedabad,Other,CCS2,7.4,Operational,North
+STN_4671,Zeon Charging,12.921836,77.671309,Bangalore,Karnataka,Bharat DC-001,7.4,Operational,South
+STN_6569,Statiq,19.128719,72.840916,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_4517,Ather Grid,28.685291,77.197153,Delhi,Delhi,CCS2,150.0,Operational,North
+STN_5977,BluSmart,13.062763,80.191092,Chennai,Tamil Nadu,CCS2,7.4,Operational,South
+STN_3658,Tata Power,17.29792,78.409058,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_7233,BluSmart,13.144188,80.369415,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_3992,ChargeZone,19.042025,72.881853,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_3541,Statiq,23.088031,72.566127,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_1511,Ather Grid,17.470232,78.488218,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_3901,Statiq,22.665338,88.300683,Kolkata,Other,CCS2,7.4,Operational,Central
+STN_8482,Tata Power,26.890489,80.865688,Lucknow,Other,Bharat DC-001,50.0,Operational,North
+STN_4486,Ather Grid,19.156883,72.956287,Mumbai,Maharashtra,CCS2,60.0,Operational,Central
+STN_7211,Statiq,13.018862,77.528012,Bangalore,Karnataka,Bharat DC-001,150.0,Operational,South
+STN_2704,ChargeZone,17.305263,78.503172,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_6535,Tata Power,22.480528,88.444449,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_7382,BluSmart,13.116982,80.233664,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_6335,BluSmart,19.149547,72.811932,Mumbai,Maharashtra,CCS2,50.0,Operational,Central
+STN_2343,Tata Power,19.053487,72.956265,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_2488,Statiq,13.060881,80.191568,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_7295,Statiq,26.797339,80.850995,Lucknow,Other,GB/T,7.4,Operational,North
+STN_6745,Tata Power,22.636466,88.417367,Kolkata,Other,CCS2,22.0,Operational,Central
+STN_1559,Zeon Charging,22.947077,72.662808,Ahmedabad,Other,Type 2,7.4,Operational,Central
+STN_7038,Tata Power,12.968545,77.604552,Bangalore,Karnataka,CCS2,7.4,Operational,South
+STN_9616,Ather Grid,28.751931,77.119413,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_7074,BluSmart,13.068588,80.277013,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_2400,Statiq,26.863911,75.736093,Jaipur,Other,CCS2,50.0,Operational,North
+STN_1424,Tata Power,13.043047,80.359034,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_4468,BluSmart,26.847592,80.989286,Lucknow,Other,Type 2,7.4,Operational,North
+STN_8049,ChargeZone,19.112587,72.863329,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_3435,Statiq,19.012657,72.938615,Mumbai,Maharashtra,CCS2,60.0,Operational,Central
+STN_5408,Ather Grid,28.718319,77.199153,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_4513,Statiq,18.618333,73.835232,Pune,Maharashtra,CCS2,50.0,Operational,Central
+STN_4804,BluSmart,19.059526,72.97179,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_9893,Tata Power,28.774748,77.123133,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_3628,Tata Power,12.930029,77.685344,Bangalore,Karnataka,Bharat DC-001,60.0,Operational,South
+STN_6082,Statiq,13.049213,77.540846,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_7082,Ather Grid,26.935897,75.717206,Jaipur,Other,GB/T,7.4,Operational,North
+STN_6276,Zeon Charging,12.977059,77.531082,Bangalore,Karnataka,CCS2,7.4,Operational,South
+STN_8357,Tata Power,18.490956,73.763498,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_1430,Zeon Charging,18.535619,73.818257,Pune,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_5260,Statiq,26.979563,75.736417,Jaipur,Other,Bharat DC-001,7.4,Operational,North
+STN_8903,BluSmart,26.974126,75.729047,Jaipur,Other,Type 2,7.4,Operational,North
+STN_4211,BluSmart,13.079765,80.284312,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_1912,Ather Grid,26.894124,75.834211,Jaipur,Other,CCS2,150.0,Operational,North
+STN_2050,Ather Grid,26.921216,80.872569,Lucknow,Other,Type 2,7.4,Operational,North
+STN_9010,ChargeZone,26.921308,81.04569,Lucknow,Other,Bharat DC-001,150.0,Operational,North
+STN_2741,Zeon Charging,13.113787,80.327666,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_6146,Ather Grid,19.115369,72.874437,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_5979,Zeon Charging,12.916939,77.596388,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_1909,Tata Power,28.693301,77.124164,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_3666,ChargeZone,19.068307,72.854856,Mumbai,Maharashtra,Bharat DC-001,150.0,Operational,Central
+STN_6239,Statiq,22.980795,72.514365,Ahmedabad,Other,Bharat DC-001,7.4,Operational,Central
+STN_7980,Tata Power,19.145439,72.816971,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_9768,Ather Grid,26.798578,80.960823,Lucknow,Other,GB/T,7.4,Operational,North
+STN_1297,ChargeZone,18.453859,73.845074,Pune,Maharashtra,Bharat DC-001,50.0,Operational,Central
+STN_1551,Tata Power,28.737977,77.15494,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_4509,Statiq,28.685527,77.040481,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_3268,Tata Power,26.820158,75.722793,Jaipur,Other,CCS2,50.0,Operational,North
+STN_3929,Ather Grid,19.024708,72.872294,Mumbai,Maharashtra,Bharat DC-001,7.4,Operational,Central
+STN_1616,Ather Grid,26.806369,81.012353,Lucknow,Other,Type 2,7.4,Operational,North
+STN_9459,ChargeZone,13.000534,77.656606,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_7854,Tata Power,22.615469,88.388872,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_1137,Tata Power,26.773035,80.977073,Lucknow,Other,Bharat DC-001,7.4,Operational,North
+STN_4971,BluSmart,23.064308,72.581751,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_7235,Tata Power,13.05224,77.541642,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_3828,ChargeZone,19.06145,72.891562,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_6094,Ather Grid,22.946673,72.545619,Ahmedabad,Other,Type 2,7.4,Operational,Central
+STN_6850,BluSmart,17.319248,78.547207,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_5617,BluSmart,13.097424,80.338493,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_1104,Ather Grid,19.050936,72.853737,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_2428,Ather Grid,12.880676,77.568371,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_3270,Zeon Charging,22.482767,88.332825,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_8307,Tata Power,22.958087,72.60608,Ahmedabad,Other,GB/T,7.4,Operational,Central
+STN_4738,ChargeZone,22.950138,72.637992,Ahmedabad,Other,Type 2,7.4,Operational,Central
+STN_7457,Ather Grid,19.141682,72.875254,Mumbai,Maharashtra,Bharat DC-001,7.4,Operational,Central
+STN_2828,Ather Grid,26.839848,80.979666,Lucknow,Other,Bharat DC-001,50.0,Operational,North
+STN_9597,Statiq,18.520417,73.87427,Pune,Maharashtra,Bharat DC-001,60.0,Operational,Central
+STN_5032,Tata Power,22.961009,72.484936,Ahmedabad,Other,Bharat DC-001,60.0,Operational,Central
+STN_4922,ChargeZone,19.03175,72.897514,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_1851,Tata Power,18.526199,73.775683,Pune,Maharashtra,CCS2,150.0,Operational,Central
+STN_6198,Zeon Charging,19.082737,72.829074,Mumbai,Maharashtra,CCS2,60.0,Operational,Central
+STN_2637,ChargeZone,17.472295,78.420331,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_9346,Statiq,17.444795,78.514671,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_2142,Zeon Charging,12.990494,77.640609,Bangalore,Karnataka,Bharat DC-001,150.0,Operational,South
+STN_3410,Statiq,19.065949,72.823108,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_4235,Zeon Charging,13.068125,80.231891,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_9462,BluSmart,26.895617,80.968727,Lucknow,Other,GB/T,7.4,Operational,North
+STN_2887,ChargeZone,19.097562,72.856891,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_9896,BluSmart,26.96553,75.75482,Jaipur,Other,GB/T,7.4,Operational,North
+STN_6287,Statiq,28.744711,77.174646,Delhi,Delhi,CCS2,7.4,Operational,North
+STN_3975,BluSmart,22.621481,88.446238,Kolkata,Other,CCS2,22.0,Operational,Central
+STN_5650,Ather Grid,17.426811,78.399269,Hyderabad,Other,CCS2,150.0,Operational,Central
+STN_5626,BluSmart,28.785786,77.143854,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_7342,Statiq,12.929646,77.673681,Bangalore,Karnataka,Bharat DC-001,60.0,Operational,South
+STN_3687,BluSmart,13.161799,80.172719,Chennai,Tamil Nadu,Bharat DC-001,150.0,Operational,South
+STN_9983,BluSmart,22.551195,88.347183,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_2098,Tata Power,26.87104,80.852769,Lucknow,Other,Type 2,7.4,Operational,North
+STN_4955,BluSmart,19.041189,72.876575,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_4348,Tata Power,23.0157,72.571666,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_8924,Statiq,28.791257,77.031999,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_4364,Ather Grid,12.986011,80.232928,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_1847,Zeon Charging,28.742805,77.115226,Delhi,Delhi,Bharat DC-001,60.0,Operational,North
+STN_8921,Zeon Charging,28.764941,77.029212,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_9398,Statiq,28.686653,77.193862,Delhi,Delhi,CCS2,7.4,Operational,North
+STN_6170,BluSmart,19.050647,72.809644,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_5184,Ather Grid,19.066516,72.884756,Mumbai,Maharashtra,Bharat DC-001,60.0,Operational,Central
+STN_7665,Statiq,18.50143,73.814895,Pune,Maharashtra,Bharat DC-001,60.0,Operational,Central
+STN_6520,ChargeZone,28.638458,77.117448,Delhi,Delhi,GB/T,7.4,Operational,North
+STN_8829,Statiq,17.308769,78.420644,Hyderabad,Other,CCS2,50.0,Operational,Central
+STN_9319,Tata Power,12.955674,77.660004,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_6387,Statiq,23.10901,72.670599,Ahmedabad,Other,CCS2,22.0,Operational,North
+STN_8790,Zeon Charging,13.168159,80.239353,Chennai,Tamil Nadu,Bharat DC-001,50.0,Operational,South
+STN_3945,Zeon Charging,22.647519,88.39506,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_9289,Tata Power,26.950141,75.834682,Jaipur,Other,CCS2,150.0,Operational,North
+STN_2864,Statiq,17.375512,78.454507,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_2983,Zeon Charging,26.817149,75.808472,Jaipur,Other,Bharat DC-001,50.0,Operational,North
+STN_9067,Statiq,26.762912,80.881087,Lucknow,Other,GB/T,7.4,Operational,North
+STN_6199,Tata Power,12.949888,77.650288,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_2183,Tata Power,13.044834,80.308426,Chennai,Tamil Nadu,GB/T,7.4,Operational,South
+STN_4663,Ather Grid,26.847856,80.969197,Lucknow,Other,Type 2,7.4,Operational,North
+STN_9609,BluSmart,12.9191,77.520209,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_1644,Statiq,13.017549,77.593074,Bangalore,Karnataka,CCS2,150.0,Operational,South
+STN_8215,Zeon Charging,18.590392,73.869934,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_2287,Tata Power,13.018064,77.669045,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_9252,Tata Power,22.608705,88.378288,Kolkata,Other,CCS2,150.0,Operational,Central
+STN_2665,Tata Power,22.952955,72.549247,Ahmedabad,Other,CCS2,150.0,Operational,Central
+STN_8796,Zeon Charging,18.451667,73.841534,Pune,Maharashtra,CCS2,7.4,Operational,Central
+STN_4244,Zeon Charging,26.991985,75.848586,Jaipur,Other,GB/T,7.4,Operational,North
+STN_6075,ChargeZone,22.667344,88.461363,Kolkata,Other,CCS2,60.0,Operational,Central
+STN_4584,BluSmart,19.078844,72.966113,Mumbai,Maharashtra,CCS2,22.0,Operational,Central
+STN_6055,Statiq,23.058493,72.617623,Ahmedabad,Other,GB/T,7.4,Operational,North
+STN_3839,Tata Power,19.162279,72.950723,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_5178,Tata Power,26.966497,75.719075,Jaipur,Other,GB/T,7.4,Operational,North
+STN_2588,Statiq,17.440444,78.414988,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_8011,ChargeZone,22.932604,72.636139,Ahmedabad,Other,GB/T,7.4,Operational,Central
+STN_4736,Statiq,28.639181,77.133328,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_4617,Statiq,17.357457,78.424525,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_6683,ChargeZone,23.032725,72.657781,Ahmedabad,Other,CCS2,150.0,Operational,North
+STN_2672,ChargeZone,19.117365,72.81102,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_2511,ChargeZone,17.469256,78.548521,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_9850,ChargeZone,23.008817,72.567381,Ahmedabad,Other,CCS2,50.0,Operational,North
+STN_6869,Ather Grid,28.691307,77.003756,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_7153,BluSmart,17.307107,78.578553,Hyderabad,Other,Bharat DC-001,50.0,Operational,Central
+STN_1848,Ather Grid,19.113334,72.84764,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_2885,Statiq,18.421066,73.878008,Pune,Maharashtra,Bharat DC-001,60.0,Operational,Central
+STN_1717,ChargeZone,18.991623,72.944599,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_6710,Tata Power,13.061887,80.178307,Chennai,Tamil Nadu,Bharat DC-001,22.0,Operational,South
+STN_2271,BluSmart,13.120184,80.260144,Chennai,Tamil Nadu,Bharat DC-001,150.0,Operational,South
+STN_5058,Tata Power,26.972589,75.742425,Jaipur,Other,CCS2,60.0,Operational,North
+STN_2625,Zeon Charging,26.902239,80.929392,Lucknow,Other,CCS2,50.0,Operational,North
+STN_7573,Tata Power,26.864471,80.948749,Lucknow,Other,Type 2,7.4,Operational,North
+STN_6562,ChargeZone,23.018477,72.601123,Ahmedabad,Other,Bharat DC-001,150.0,Operational,North
+STN_8667,Ather Grid,22.650391,88.403867,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_7498,Tata Power,28.648949,77.046195,Delhi,Delhi,Bharat DC-001,50.0,Operational,North
+STN_6868,Zeon Charging,13.097114,80.247434,Chennai,Tamil Nadu,Bharat DC-001,22.0,Operational,South
+STN_2390,Ather Grid,27.003709,75.768261,Jaipur,Other,GB/T,7.4,Operational,North
+STN_5293,BluSmart,13.019377,77.555283,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_4929,BluSmart,22.582309,88.390738,Kolkata,Other,Type 2,7.4,Operational,Central
+STN_5078,Zeon Charging,12.910556,77.580029,Bangalore,Karnataka,Bharat DC-001,50.0,Operational,South
+STN_3360,Zeon Charging,18.510115,73.904049,Pune,Maharashtra,Bharat DC-001,22.0,Operational,Central
+STN_1591,Statiq,19.12633,72.790817,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_6297,Statiq,18.49871,73.816897,Pune,Maharashtra,CCS2,50.0,Operational,Central
+STN_2090,BluSmart,17.402746,78.489433,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_8802,Statiq,22.599861,88.463223,Kolkata,Other,Bharat DC-001,60.0,Operational,Central
+STN_2119,Tata Power,18.560581,73.949164,Pune,Maharashtra,CCS2,60.0,Operational,Central
+STN_2742,BluSmart,12.908915,77.547045,Bangalore,Karnataka,CCS2,150.0,Operational,South
+STN_7675,BluSmart,17.467979,78.585971,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_4483,ChargeZone,22.575283,88.419017,Kolkata,Other,GB/T,7.4,Operational,Central
+STN_4500,Tata Power,26.963151,75.703771,Jaipur,Other,GB/T,7.4,Operational,North
+STN_9573,Tata Power,19.131432,72.956662,Mumbai,Maharashtra,CCS2,150.0,Operational,Central
+STN_7945,Statiq,23.092415,72.557749,Ahmedabad,Other,Type 2,7.4,Operational,North
+STN_4516,Ather Grid,17.362387,78.488046,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_3114,ChargeZone,19.169996,72.904012,Mumbai,Maharashtra,Bharat DC-001,150.0,Operational,Central
+STN_2397,BluSmart,13.015027,77.641935,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_5092,BluSmart,18.999336,72.858372,Mumbai,Maharashtra,Type 2,7.4,Operational,Central
+STN_7800,BluSmart,18.609799,73.781797,Pune,Maharashtra,Type 2,7.4,Operational,Central
+STN_3140,Zeon Charging,12.936542,77.630374,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_8789,Ather Grid,26.902273,75.777262,Jaipur,Other,GB/T,7.4,Operational,North
+STN_5607,ChargeZone,17.442448,78.394705,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_7714,BluSmart,13.082307,80.221418,Chennai,Tamil Nadu,Type 2,7.4,Operational,South
+STN_1450,Ather Grid,17.306157,78.559211,Hyderabad,Other,Type 2,7.4,Operational,Central
+STN_5214,BluSmart,28.780644,77.028139,Delhi,Delhi,Bharat DC-001,50.0,Operational,North
+STN_4531,ChargeZone,26.784195,81.020587,Lucknow,Other,CCS2,7.4,Operational,North
+STN_8277,BluSmart,19.093811,72.889475,Mumbai,Maharashtra,GB/T,7.4,Operational,Central
+STN_1936,Zeon Charging,18.6139,73.837524,Pune,Maharashtra,CCS2,150.0,Operational,Central
+STN_9794,BluSmart,26.883848,75.696173,Jaipur,Other,CCS2,60.0,Operational,North
+STN_7309,Ather Grid,26.884888,80.915162,Lucknow,Other,Type 2,7.4,Operational,North
+STN_4553,Zeon Charging,26.776696,80.916739,Lucknow,Other,CCS2,7.4,Operational,North
+STN_8782,Ather Grid,18.553834,73.761425,Pune,Maharashtra,GB/T,7.4,Operational,Central
+STN_6683,Zeon Charging,17.468637,78.575154,Hyderabad,Other,GB/T,7.4,Operational,Central
+STN_7066,ChargeZone,13.003505,80.285883,Chennai,Tamil Nadu,Bharat DC-001,7.4,Operational,South
+STN_9428,Statiq,26.940266,80.895838,Lucknow,Other,GB/T,7.4,Operational,North
+STN_8187,BluSmart,18.495848,73.938107,Pune,Maharashtra,CCS2,60.0,Operational,Central
+STN_9269,Statiq,18.563223,73.926784,Pune,Maharashtra,CCS2,22.0,Operational,Central
+STN_7721,BluSmart,12.881615,77.541721,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_1624,Zeon Charging,12.975477,77.661315,Bangalore,Karnataka,GB/T,7.4,Operational,South
+STN_1543,BluSmart,26.941626,75.690085,Jaipur,Other,Type 2,7.4,Operational,North
+STN_2182,Statiq,22.994391,72.622901,Ahmedabad,Other,GB/T,7.4,Operational,Central
+STN_2252,Tata Power,28.60647,77.121688,Delhi,Delhi,Type 2,7.4,Operational,North
+STN_2499,Zeon Charging,13.035797,77.498707,Bangalore,Karnataka,Type 2,7.4,Operational,South
+STN_5039,Ather Grid,22.617462,88.418551,Kolkata,Other,CCS2,150.0,Operational,Central
+STN_9150,Tata Power,17.40673,78.502289,Hyderabad,Other,CCS2,7.4,Operational,Central
+STN_4861,Statiq,19.090548,72.932113,Mumbai,Maharashtra,Bharat DC-001,7.4,Operational,Central
+STN_9857,Zeon Charging,23.107288,72.538926,Ahmedabad,Other,Type 2,7.4,Operational,North
+STN_8909,Statiq,22.617301,88.360702,Kolkata,Other,CCS2,7.4,Operational,Central
+STN_8311,Ather Grid,13.0214,80.354059,Chennai,Tamil Nadu,CCS2,7.4,Operational,South
+STN_8307,ChargeZone,23.011446,72.514664,Ahmedabad,Other,CCS2,7.4,Operational,North
+STN_1273,Statiq,17.338603,78.565238,Hyderabad,Other,Type 2,7.4,Operational,Central

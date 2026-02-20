@@ -1,0 +1,60 @@
+{
+  "stations_dataset": {
+    "description": "Comprehensive EV charging stations dataset for India",
+    "fields": {
+      "station_id": "Unique identifier for each charging station",
+      "data_source": "Original source of the station data",
+      "name": "Station name or description",
+      "operator": "Company/organization operating the station",
+      "network": "Charging network the station belongs to",
+      "city": "City where the station is located",
+      "state": "State where the station is located",
+      "country": "Country (India)",
+      "latitude": "GPS latitude coordinate",
+      "longitude": "GPS longitude coordinate",
+      "power_kw": "Maximum power output in kilowatts",
+      "charger_type": "Type of charging (AC Slow/Fast, DC Fast/Ultra)",
+      "connector_type": "Physical connector types available",
+      "access_type": "Accessibility (Public, Private, Restricted)",
+      "status": "Operational status of the station",
+      "estimated_cost_per_kwh": "Estimated charging cost per kWh in INR",
+      "address": "Physical address of the station",
+      "scraped_at": "Timestamp when data was collected"
+    }
+  },
+  "sessions_dataset": {
+    "description": "Realistic charging session logs based on station characteristics",
+    "fields": {
+      "session_id": "Unique identifier for each charging session",
+      "station_id": "Reference to the charging station",
+      "session_start": "Start timestamp of charging session",
+      "session_end": "End timestamp of charging session",
+      "duration_minutes": "Total session duration in minutes",
+      "energy_delivered_kwh": "Amount of energy delivered in kWh",
+      "peak_power_kw": "Maximum power used during session",
+      "average_power_kw": "Average power during session",
+      "total_cost_inr": "Total cost of charging session in INR",
+      "cost_per_kwh": "Rate charged per kWh",
+      "user_id": "Anonymous user identifier",
+      "payment_method": "Method used for payment",
+      "charging_completed": "Whether session completed successfully",
+      "operator": "Station operator",
+      "city": "Location city",
+      "state": "Location state",
+      "vehicle_type": "Type of vehicle charged",
+      "start_soc_percent": "Starting battery state of charge",
+      "end_soc_percent": "Ending battery state of charge",
+      "session_rating": "User rating for the session (1-5)"
+    }
+  },
+  "analytics_summary": {
+    "description": "Comprehensive analytics and insights from the dataset",
+    "includes": [
+      "Infrastructure distribution analysis",
+      "Usage pattern insights",
+      "Revenue and energy analytics",
+      "Geographic coverage metrics",
+      "Data quality assessments"
+    ]
+  }
+}

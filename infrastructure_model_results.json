@@ -1,0 +1,57 @@
+{
+  "efficiency_metrics": {
+    "total_power_capacity_kw": 632.5999999999999,
+    "average_power_utilization": 28.25057324840764,
+    "peak_hour": "1",
+    "peak_to_average_ratio": 1.3459757139597754,
+    "cities_covered": 11,
+    "avg_stations_per_city": 1.8181818181818181
+  },
+  "suggested_locations": [
+    {
+      "city": "New Delhi",
+      "latitude": 28.60795509745465,
+      "longitude": 77.2771159812589,
+      "total_demand_kwh": 2664.71,
+      "session_count": 112,
+      "distance_to_nearest_km": 0.0,
+      "benefit_score": 2664.71
+    },
+    {
+      "city": "Ahmedabad",
+      "latitude": 22.96593631193638,
+      "longitude": 72.52481724398982,
+      "total_demand_kwh": 2385.07,
+      "session_count": 65,
+      "distance_to_nearest_km": 0.0,
+      "benefit_score": 2385.07
+    },
+    {
+      "city": "Mumbai",
+      "latitude": 18.98359636870155,
+      "longitude": 72.93232390141183,
+      "total_demand_kwh": 2153.07,
+      "session_count": 91,
+      "distance_to_nearest_km": 0.0,
+      "benefit_score": 2153.07
+    },
+    {
+      "city": "Bangalore",
+      "latitude": 12.898094131171456,
+      "longitude": 77.50001598291215,
+      "total_demand_kwh": 2147.87,
+      "session_count": 110,
+      "distance_to_nearest_km": 0.0,
+      "benefit_score": 2147.87
+    },
+    {
+      "city": "Mumbai",
+      "latitude": 19.15176426830245,
+      "longitude": 72.89120262640441,
+      "total_demand_kwh": 2083.32,
+      "session_count": 110,
+      "distance_to_nearest_km": 0.0,
+      "benefit_score": 2083.32
+    }
+  ]
+}
