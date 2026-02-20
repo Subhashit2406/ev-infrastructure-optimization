@@ -1,11 +1,8 @@
 # Auto detect text files and normalize line endings to LF
 * text=auto
 
-# Python files
-*.py text eol=lf
-*.pyw text eol=lf
-*.pyx text eol=lf
-*.pyi text eol=lf
+# Python files (Primary language)
+*.py text eol=lf linguist-language=Python
 
 # Shell scripts
 *.sh text eol=lf
@@ -16,18 +13,18 @@
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
 
-# JSON, YAML, TOML
-*.json text eol=lf
-*.yaml text eol=lf
-*.yml text eol=lf
-*.toml text eol=lf
+# YAML/JSON - Treated as data files for linguist
+*.json text eol=lf linguist-vendored
+*.yaml text eol=lf linguist-vendored
+*.yml text eol=lf linguist-vendored
+*.toml text eol=lf linguist-vendored
 
-# Markdown
-*.md text eol=lf
+# Markdown - Documentation files
+*.md text eol=lf linguist-vendored
 
-# CSV and TSV
-*.csv text eol=lf
-*.tsv text eol=lf
+# CSV and TSV - Data files
+*.csv text eol=lf linguist-vendored
+*.tsv text eol=lf linguist-vendored
 
 # Binary files
 *.pyc binary
