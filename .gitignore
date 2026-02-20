@@ -136,3 +136,10 @@ dmypy.json
 debug_output/
 temp/
 .streamlit/
+
+# Generated visualizations & plots (ignore HTML/output files)
+interactive_plots/*.html
+infrastructure_model_plots/
+*.png
+*.jpg
+*.jpeg
