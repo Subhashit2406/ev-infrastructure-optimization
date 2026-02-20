@@ -12,22 +12,21 @@ Your project is ready! Follow these steps to upload to GitHub.
 6. **DO NOT** initialize with README, .gitignore, or LICENSE (you already have them!)
 7. Click **"Create repository"**
 
-## Step 2: Copy Your Repository URL
+## Step 2: Repository URL
 
-After creating, GitHub will show your repo URL. It looks like:
 ```
-https://github.com/YOUR-USERNAME/ev-infrastructure-optimization.git
+https://github.com/Subhashit2406/ev-infrastructure-optimization.git
 ```
 
-## Step 3: Run These Commands (Copy & Paste)
+## Step 3: Project is Already Live! ✅
 
-Replace `YOUR-USERNAME` with your actual GitHub username:
+Your repository is already pushed to GitHub:
 
 ```powershell
-cd "c:\Users\subha\OneDrive\Desktop\Ev Project(BDA)"
-git remote add origin https://github.com/YOUR-USERNAME/ev-infrastructure-optimization.git
-git push -u origin main
+https://github.com/Subhashit2406/ev-infrastructure-optimization
 ```
+
+No additional steps needed - project is live!
 
 That's it! Your project is now on GitHub! 🎉
 
